@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "type": "header",
   "name": "Header Group",
@@ -53,8 +62,8 @@
             "gradient": "",
             "show_logo": true,
             "logo_position": "left",
-            "logo": "shopify://shop_images/Logo_3.png",
-            "logo_width": 115,
+            "logo": "shopify://shop_images/logo-peaberry-kids-website.png",
+            "logo_width": 265,
             "logo_mg_left": 25,
             "logo_text": "",
             "logo_font_size": 30,
@@ -68,7 +77,7 @@
             "search_icon_color": "#ffffff",
             "search_icon_bg": "#0088a0",
             "search_icon_gradient": "",
-            "search_border_radius": 5,
+            "search_border_radius": 20,
             "show_cart": true,
             "cart_color": "#ffffff",
             "cart_bg_item": "#f42b23",
@@ -101,7 +110,6 @@
           "type": "logo",
           "settings": {
             "logo_position": "sticky_menu",
-            "logo": "shopify://shop_images/Logo_4.png",
             "logo_width": 70,
             "logo_width_fixed": 100,
             "logo_text": "",
@@ -114,7 +122,7 @@
         "sections--14682829619277__019dd18f-f51d-4292-8462-8c945e0efa4f-168104747253394989-1": {
           "type": "main_menu",
           "settings": {
-            "menu": "main-menu-home-33",
+            "menu": "main-menu",
             "menu_top_spacing": 14,
             "menu_bottom_spacing": 18,
             "grid_gap_menu_item": 24,
@@ -152,7 +160,7 @@
             "hot_label_bg": "#ffbb49",
             "hot_label_bg_gradient": "",
             "vertical_menu_layout": "style_1",
-            "vertical_menu": "industrial-tool",
+            "vertical_menu": "top-menu",
             "auto_show_index": false,
             "title_categories": "SHOP ALL CATEGORIES",
             "title_categories_font_size": 16,
@@ -254,19 +262,14 @@
             "item": "New in",
             "column": 5,
             "show_banner_1": false,
-            "banner_1": "shopify://shop_images/1.2.png",
             "banner_url_1": "#",
             "show_banner_2": false,
-            "banner_2": "shopify://shop_images/6.2.png",
             "banner_url_2": "#",
             "show_banner_3": false,
-            "banner_3": "shopify://shop_images/3.2.png",
             "banner_url_3": "#",
             "show_banner_4": false,
-            "banner_4": "shopify://shop_images/image_product_1_640b33fb-a9cc-42d8-bfbb-bfa1e5630a33.png",
             "banner_url_4": "#",
             "show_banner_5": false,
-            "banner_5": "shopify://shop_images/image_product_1_640b33fb-a9cc-42d8-bfbb-bfa1e5630a33.png",
             "banner_url_5": "#",
             "show_banner_6": false,
             "banner_url_6": ""
@@ -280,7 +283,6 @@
             "item": "Power Tools",
             "column": 3,
             "show_banner_1": true,
-            "banner_1": "shopify://shop_images/Banner_7.png",
             "banner_url_1": "",
             "show_product": false,
             "product_title": "Featured Products",
@@ -330,7 +332,6 @@
         "550fbd21-75fb-4051-9dee-77d91b5239f0": {
           "type": "logo",
           "settings": {
-            "logo_mobile": "shopify://shop_images/Logo_4.png",
             "logo_width_mobile": 80,
             "logo_text": "",
             "logo_font_size": 20,
